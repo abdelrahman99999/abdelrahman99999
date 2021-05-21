@@ -9,6 +9,6 @@
 - :smile: I’m currently a Computer Engineering Student at Faculty of Engineering, Ain Shams University, cairo, Egypt 
 - ⚡ I’m currently learning Data Structure and Algorithms
 - 🧗 I try to: Go beyond and push the bounds
-- 🥅 2021/2022 Goals: - Contribute to Open Source projects
-                       -  Participate in competitive programming competitions
+- 🥅 2021/2022 Goals: 1. Contribute to Open Source projects
+                       2.  Participate in competitive programming competitions
 - 💬 Ask me about anything, I am happy to help 
