@@ -5,3 +5,6 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 
 <img align="center" height="270px" width="800px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<p align="center">
+  <img width="460" height="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+</p>
