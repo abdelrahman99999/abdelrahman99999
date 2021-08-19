@@ -8,7 +8,7 @@
 
 - :smile: I’m a Computer Engineering Student at Faculty of Engineering, Ain Shams University, cairo, Egypt 
 - ⚡ I’m currently learning Data Structure, Algorithms and Embedded Systems 
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to Go beyond and push the bounds
 
 ## 🙋‍♂️ Connect with me:
 <p align="left">
