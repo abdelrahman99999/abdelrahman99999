@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Embedded Systems
+- 🌱 I’m currently learning Embedded Systems and AUTOSAR
 
 - 📫 How to reach me **abdelrahmanelsayed341@gmail.com**
 
