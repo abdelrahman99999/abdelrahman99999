@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdelrahman-elsayed-299962184/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -26,13 +26,7 @@
 </p>
 
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahman99999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="abdelrahman99999" 
-    bg_color=#808080/></p>
-
-<br>
+<h3>Statistical Data :</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman99999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
