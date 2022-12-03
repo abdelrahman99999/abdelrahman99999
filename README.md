@@ -25,10 +25,4 @@
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-
-<h3>Statistical Data :</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman99999&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
      
