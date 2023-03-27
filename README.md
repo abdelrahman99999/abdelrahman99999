@@ -3,8 +3,7 @@
 
 
 
-- 🌱 I’m currently learning Embedded Systems and AUTOSAR
-
+- 🌱 I’m Intersted In Embedded Systems
 - 📫 How to reach me **abdelrahmanelsayed341@gmail.com**
 
 - ⚡ Fun fact :- My family and friends are the reasons to live.
