@@ -3,11 +3,9 @@
 
 
 
-- 🌱 I’m Intersted In Embedded Systems
+- 🌱 Interested In Embedded Development.
 - 📫 How to reach me **abdelrahmanelsayed341@gmail.com**
-
-- ⚡ Fun fact :- My family and friends are the reasons to live.
-- :movie_camera: My Youtube channel: <a href="https://www.youtube.com/channel/UCCxGkydKh5J-t3QurP2GRuA"  target="_blank" rel="noopener noreferrer" >click me</a>
+- :movie_camera: My Youtube Channel: <a href="https://www.youtube.com/channel/UCCxGkydKh5J-t3QurP2GRuA"  target="_blank" rel="noopener noreferrer" >click me</a>
 
 <br>
 
