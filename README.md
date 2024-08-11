@@ -2,7 +2,7 @@
 <h3 align="center">Fresh Graduate From 🌟Faculty Of Engineering, ASU, Egypt🌟</h3>
 
 
-- ✅ Ex-Embedded Software Engineer Intern @Valeo
+- ✅ Ex-Software Engineer Intern @Valeo
 - 🌱 Interested In SW Development, SW Testing and Embedded Development.
 - 📫 How to reach me **abdelrahmanelsayed341@gmail.com**
 - :movie_camera: My Youtube Channel: <a href="https://www.youtube.com/channel/UCCxGkydKh5J-t3QurP2GRuA"  target="_blank" rel="noopener noreferrer" >click me</a>
