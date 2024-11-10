@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elsayed</h1>
-<h3 align="center">Fresh Graduate From 🌟Faculty Of Engineering, ASU, Egypt🌟</h3>
+<h3 align="center">Software Engineer, Egypt🌟</h3>
 
 
 - ✅ Test Automation Engineer @METI-Software 
