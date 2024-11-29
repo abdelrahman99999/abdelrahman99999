@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elsayed</h1>
 <h3 align="center">Software Engineer, Egypt🌟</h3>
 
-
-- ✅ Test Automation Engineer @METI-Software 
-- ❎️ Ex-Software Engineer Intern @Valeo
+- ✅ Coming Soon
+- ❌ Ex-Test Automation Engineer @METI-Software 
+- ❌ Ex-Software Engineer Intern @Valeo
 - 🌱 Interested In SW Development, SW Testing and Embedded Development.
 - 📫 How to reach me **abdelrahmanelsayed341@gmail.com**
 - :movie_camera: My Youtube Channel: <a href="https://www.youtube.com/channel/UCCxGkydKh5J-t3QurP2GRuA"  target="_blank" rel="noopener noreferrer" >click me</a>
@@ -21,9 +21,7 @@
   <a href="https://www.youtube.com/channel/UCCxGkydKh5J-t3QurP2GRuA" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/abd_elrahman341" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+
 </p>
 
      
