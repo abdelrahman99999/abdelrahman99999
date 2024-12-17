@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elsayed</h1>
 <h3 align="center">Software Engineer, Egypt🌟</h3>
 
-- ✅ Coming Soon
+- ✅ Software Engineer @eJad
 - ❌ Ex-Test Automation Engineer @METI-Software 
 - ❌ Ex-Software Engineer Intern @Valeo
 - 🌱 Interested In SW Development, SW Testing and Embedded Development.
